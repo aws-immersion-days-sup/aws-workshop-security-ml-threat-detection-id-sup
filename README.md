@@ -15,7 +15,7 @@ The goal of this exercise is to familiarize with the kinds of information contai
 ## 1.1 Generate sample findings
 
 From the Services dropdown in the top left, browse to the GuardDuty console (just type "GuardDuty" into the search box).
-Verify that you are in the US West (Oregon) region via the region dropdown in the top right; if not, please switch to that region.
+Verify that you are in the EU-West (Ireland) region via the region dropdown in the top right; if not, please switch to that region.
 GuardDuty should not yet be enabled in this account. Click the Get Started button in the middle of the screen.
 Next, click the button labelled Enable GuardDuty to turn it on with a single click.
 In the left menu click Settings, scroll down to the section titled "Sample Findings", then click on the button labelled Generate sample findings to generate a sample GuardDuty finding for every finding type.
