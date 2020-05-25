@@ -106,7 +106,6 @@ All of the code and artifacts used in this lab - including these instructions, b
 aws_lambda/
 	cloudtrail_ingest.zip - Lambda zip bundle for workshop CloudTrail log ingest
 	guardduty_ingest.zip - Lambda zip bundle for workshop GuardDuty finding ingest
-templates/
-	cloudformation.yaml - The CloudFormation template to deploy the stack of resources for the workshop
-mlsec-participant-policy.json - The IAM policy specifying the permissions needed for the lab user
+
+cloudformation.yaml - The CloudFormation template to deploy the stack of resources for the workshop
 mlsec-workshop-ipinsights.ipynb - Jupyter notebook for the workshop to load into SageMaker
