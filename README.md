@@ -1,11 +1,8 @@
-# Initial setup
-
 # Prerequisites
 
 You do not need an AWS account for this workshop. You will be using the AWS EventEgine to access a temporary AWS account to run the lab.
 Modern, graphical web browser - sorry Lynx users :)
 During the workshop, you must  deploy the CloudFormation template located here:  https://aws-workshop-security-ml-threat-detection-id-sup.s3-eu-west-1.amazonaws.com/cloudformation.yaml 
-
 
 It will take a few minutes for the CloudFormation template to provision. In the meantime, your facilitators will take some time to walk through some key concepts in the lab.
 
@@ -14,6 +11,7 @@ It will take a few minutes for the CloudFormation template to provision. In the 
 In this exercise, you will generate and examine sample GuardDuty findings to understand what information they contain, and then also look at several "real" GuardDuty findings that were generated from actual AWS account activity.
 
 The goal of this exercise is to familiarize with the kinds of information contained in GuardDuty findings, and the structure of the findings themselves.
+
 ## 1.1 Generate sample findings
 
 From the Services dropdown in the top left, browse to the GuardDuty console (just type "GuardDuty" into the search box).
