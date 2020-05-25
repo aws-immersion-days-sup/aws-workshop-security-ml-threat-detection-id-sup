@@ -104,8 +104,11 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/ip-insights.html
 All of the code and artifacts used in this lab - including these instructions, but not including the Jam Platform - are available in a public GitHub repository. There you will find the following files:
 
 aws_lambda/
+
 	cloudtrail_ingest.zip - Lambda zip bundle for workshop CloudTrail log ingest
+
 	guardduty_ingest.zip - Lambda zip bundle for workshop GuardDuty finding ingest
 
 cloudformation.yaml - The CloudFormation template to deploy the stack of resources for the workshop
+
 mlsec-workshop-ipinsights.ipynb - Jupyter notebook for the workshop to load into SageMaker
